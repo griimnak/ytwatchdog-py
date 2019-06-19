@@ -26,3 +26,4 @@ watch_subs = True  # or False
 
 sleep_time = 600  # seconds
 ```
+<b>Note: Don't set the sleep time to less than 2 minutes or youtube could block your requests.</b>
