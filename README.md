@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.imgur.com/XIzLbfH.png)
 
-Simple watchdog script that watches youtube subscription count by scraping channel html with bs4.
+Simple watchdog script that monitors youtube subscription count by scraping channel html with bs4.
 
 
 Usage:
